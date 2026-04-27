@@ -11,54 +11,6 @@ URL = "wss://neonhealth.software/agent-puzzle/challenge"
 #NEON_CODE = ""
 NEON_CODE = os.getenv("NEON_CODE")
 
-RESUME_TEXT = """
-Summary
-Software Engineer with 4 plus years of experience building scalable backend systems, AI and LLM pipelines, and production applications. Strong in Python, Node.js, and cloud platforms. Experienced in distributed systems, API design, automation, and CI CD. Delivers reliable systems in fast paced environments with full ownership from design to deployment. Focused on AI driven applications, workflow automation, and scalable architecture.
-
-Skills
-Programming languages include Python, C, PL SQL, JavaScript, CUDA C, C sharp, HTML, CSS, Bash.
-Core computer science includes data structures, algorithms, object oriented programming, operating systems, computer networks, database management systems, system design, and problem solving.
-AI and ML includes machine learning, natural language processing, retrieval augmented generation, and AI agents.
-Frameworks and libraries include Flask, FastAPI, Selenium, Node.js, React.js, ASP.NET, and WPF basics.
-Cloud and architecture includes AWS, GCP, OCI, monolithic systems, microservices, and distributed systems.
-DevOps and CI CD includes Docker, Kubernetes, Git, GitHub, GitHub Actions, and CI CD pipelines.
-Databases and tools include MongoDB, SQL, Oracle Database, DynamoDB, PostgreSQL, MATLAB, LabVIEW, Cadence, Proteus, Arduino, and Visual Studio.
-
-Work Experience
-Software Engineer at M9Market, Remote USA from January 2025 to present.
-Own backend microservices using Python, Node.js, and AWS with focus on modular and reliable systems.
-Built and integrated AI and LLM workflows in production including model selection, script generation, and automated video creation.
-Implemented FastAPI, Docker, and GitHub Actions to improve development speed and deployment efficiency.
-Designed and deployed CI CD pipelines to reduce release time and ensure stable deployments.
-Worked with founders and cross functional teams to deliver production features under tight timelines.
-Optimized APIs, data pipelines, and integrations for scalable AI driven applications.
-
-Software and IT Support Student Assistant at University of California Riverside from March 2024 to March 2025.
-Automated internal IT workflows using Python and Bash scripts.
-Supported systems across Windows, macOS, and Linux environments.
-Maintained infrastructure and improved internal processes through scripting.
-
-Systems Software Engineer at Tata Consultancy Services in Hyderabad, India from January 2021 to July 2023.
-Automated HR workflows using Python scripts and reduced manual effort by 40 percent.
-Optimized SQL queries in Oracle HCM systems to reduce latency and improve reporting performance.
-Integrated REST APIs for data exchange between Oracle HCM and external systems.
-Performed performance tuning for high traffic modules to improve responsiveness.
-Delivered production solutions in collaboration with cross functional teams and rapidly learned Oracle HCM domain.
-
-Projects
-Server side CRUD application using C sharp, .NET, WPF, Flask API, and SQLite. Built a client server system with API integration and used AI tools to accelerate development and debugging.
-Retrieval augmented generation pipeline for document summarization and question answering using Python, Flask, ChromaDB, and FAISS. Designed for scalable document processing and retrieval.
-YouTube timestamps jumper Chrome extension using JavaScript. Enabled bookmarking, jumping, and looping of video timestamps with persistent storage.
-Full swing 8 by 8 XOR content addressable memory. Designed low power CAM in Cadence gpdk180 with optimized SRAM and achieved 20 nanosecond search delay.
-SpaceX rocket landing prediction model using machine learning. Achieved 87 percent accuracy using scikit learn, feature engineering, and data analysis.
-
-Education
-Master of Science in Computer Science and Engineering from University of California Riverside with GPA 3.8 out of 4.0 from September 2023 to March 2025.
-Bachelor of Technology in Electronics and Communication Engineering from JNTU Hyderabad with GPA 8.48 out of 10.0 from September 2016 to September 2020.
-
-Certifications include IBM Data Science, Programming for Everybody, Python Data Structures, Using Python to Access Web Data, and Using Databases with Python.
-"""
-
 SENT_SPEAK_TEXTS = []
 
 
